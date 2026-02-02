@@ -1,1 +1,3 @@
-Hello from EC2!
+Featuring something
+Feature work
+Hello from EC2
